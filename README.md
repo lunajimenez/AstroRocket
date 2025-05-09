@@ -53,9 +53,9 @@ Posee un mecanismo de recuperación basado en la detección de velocidad cero (a
 .
 ├── /firmware/                # Código del STM32 (STM32CubeIDE)
 ├── /backend/                 # Backend Python para comunicación y recolección de datos
-├── /hmi_embebidoSMP/         # Interfaz Humano-Máquina
 ├── /grafana_dashboards/      # Dashboards y configuraciones para Grafana
 ├── /pcb/                     # Archivos KiCAD para el diseño de la PCB
+├── /rocket_design/           # Archivos OpenRocket para el diseño del cohete
 ├── /docs/                    # Documentación técnica y manuales
 └── README.md
 ```
